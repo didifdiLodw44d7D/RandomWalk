@@ -1,0 +1,10 @@
+D:\vs2019\Animation\Animation\bin\Debug\Animation.exe.config
+D:\vs2019\Animation\Animation\bin\Debug\Animation.exe
+D:\vs2019\Animation\Animation\bin\Debug\Animation.pdb
+D:\vs2019\Animation\Animation\obj\Debug\Animation.csprojAssemblyReference.cache
+D:\vs2019\Animation\Animation\obj\Debug\Animation.Form1.resources
+D:\vs2019\Animation\Animation\obj\Debug\Animation.Properties.Resources.resources
+D:\vs2019\Animation\Animation\obj\Debug\Animation.csproj.GenerateResource.cache
+D:\vs2019\Animation\Animation\obj\Debug\Animation.csproj.CoreCompileInputs.cache
+D:\vs2019\Animation\Animation\obj\Debug\Animation.exe
+D:\vs2019\Animation\Animation\obj\Debug\Animation.pdb
