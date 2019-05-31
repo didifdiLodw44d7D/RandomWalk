@@ -58,32 +58,32 @@ namespace Animation
             for (int t = 0; t < repeat; t+=10)
             {
                 Random r = new Random(t);
-                int odds = r.Next(4);
+                int odds = r.Next(5);
 
                 //if (0 == ( t % 20))
                 if(0 == odds)
                 {
-                    p = new Pen(Color.Red, 1);
+                    p = new Pen(Color.Red, 3);
                     x = -5;
                 }
                 else if(1 == odds)
                 {
-                    p = new Pen(Color.Black, 1);
+                    p = new Pen(Color.Black, 3);
                     x = 5;
                 }
                 else if (2 == odds)
                 {
-                    p = new Pen(Color.Black, 1);
+                    p = new Pen(Color.OrangeRed, 3);
                     x = 10;
                 }
                 else if (3 == odds)
                 {
-                    p = new Pen(Color.Black, 1);
+                    p = new Pen(Color.Blue, 3);
                     x = -10;
                 }
-                else if (1 == odds)
+                else if (4 == odds)
                 {
-                    p = new Pen(Color.Black, 10);
+                    p = new Pen(Color.Green, 3);
                     x = 0;
                 }
 
